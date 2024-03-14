@@ -29,5 +29,19 @@ Python 3.12
 ## Getting Started:
 
 1. Clone the repository to your local machine:
+```python
+git clone https://github.com/straznikit/snake
+```
+2. Run the script and start playing the Snake game to test your reflexes and agility.
+
+## Contributing:
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
+
+## Acknowledgments:
+
+Special thanks to the creators of the original Snake game for inspiring this implementation. Additionally, thanks to the Python community and contributors for their valuable insights and support in developing this Snake game script.
+
+For detailed usage instructions and implementation details, please refer to the accompanying documentation and README file in the GitHub repository.
 
 
