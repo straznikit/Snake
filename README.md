@@ -22,4 +22,12 @@ This Python script implements the classic Snake game, a simple yet addictive arc
 
 4. Aim to achieve the highest score possible and challenge yourself to beat your previous records.
 
+## Dependencies:
+
+Python 3.12
+
+## Getting Started:
+
+1. Clone the repository to your local machine:
+
 
