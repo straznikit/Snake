@@ -42,6 +42,4 @@ Contributions are welcome! If you have any suggestions, improvements, or feature
 
 Special thanks to the creators of the original Snake game for inspiring this implementation. Additionally, thanks to the Python community and contributors for their valuable insights and support in developing this Snake game script.
 
-For detailed usage instructions and implementation details, please refer to the accompanying documentation and README file in the GitHub repository.
-
 
